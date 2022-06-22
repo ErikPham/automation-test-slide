@@ -1,16 +1,14 @@
 {
-  "name": "ocg",
-  "type": "module",
-  "scripts": {
-    "dev": "node number.js"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "eslint": "^7.32.0 || ^8.2.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.25.2"
-  },
+  "name": "package",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.22.2",
+    "lodash": "^4.17.21"
+  },
+  "type": "module"
 }
