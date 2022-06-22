@@ -1,8 +1,0 @@
-{
-  "name": "nodejs",
-  "type": "module",
-  "scripts": {
-    "dev": "node number.js",
-    "test": "npx playwright test"
-  }
-}
