@@ -246,7 +246,7 @@ npx playwright test tests/examples.spec.ts
 # Tư duy khi bắt đầu việc với
 <div grid="~ cols-2 gap-4">
 <div>
-<img src="img/mindset/run.png" />
+<img src="https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3024&q=80" />
 </div>
 <div>
 
